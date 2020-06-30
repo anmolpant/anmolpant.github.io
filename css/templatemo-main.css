@@ -291,27 +291,21 @@ nav a:hover::before {
 .slides .slide:nth-child(1) {
   background-image: url(../img/bg1_trial.png);
 }
-
 .slides .slide:nth-child(2) {
   background-image: url(../img/page-bg.jpg);
 }
-
 .slides .slide:nth-child(3) {
   background-image: url(../img/third_bg.jpg);
 }
-
 .slides .slide:nth-child(4) {
   background-image: url(../img/fourth_bg.jpg);
  }
-
 .slides .slide:nth-child(5) {
   background-image: url(../img/third-bg.png);
 }
-
 .slides .slide:nth-child(6) {
   background-image: url(../img/fourth_bg.jpg);
 }
-
 .slides .slide img {
   width: 100%;
 }
