@@ -1,2 +1,2 @@
-# anmolpant.github.io
-Portfolio website hosting repo
+# Portfolio-Website
+Personal portfolio website made using html, css and js.
